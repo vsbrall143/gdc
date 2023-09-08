@@ -1,14 +1,14 @@
 # STEPS TO CREATE AND MANAGE NEW REPOSITORY USING GIT
-# install git on your pc
-# using git config command to set the author name and email address respectively to be used with your commits.
-# creating new project folder
-# initialize a git repository using git init command
-# add and commit you project files using git add and git commit
-# create new repository on git hub
-# linking local repository to remote repository using git remote add origin<repository_url>
-# push the project to remote repository using git push -u origin main
-# to create new project files and push individual files to github use git add file name and then commiting and pusing to origin
-# to revert to repo to old commits use git reset filename and git reset
+# 1 install git on your pc
+# 2 using git config command to set the author name and email address respectively to be used with your commits.
+# 3 creating new project folder
+# 4 initialize a git repository using git init command
+# 5 add and commit you project files using git add and git commit
+# 6 create new repository on git hub
+# 7 linking local repository to remote repository using git remote add origin<repository_url>
+# 8 push the project to remote repository using git push -u origin main
+# 9 to create new project files and push individual files to github use git add file name and then commiting and pusing to origin
+# 10 to revert to repo to old commits use git reset filename and git reset
 
 # BASIC GIT COMMANDS
 # git init : used to initialize new repository in the current directory

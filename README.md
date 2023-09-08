@@ -1,4 +1,4 @@
-# gdc
+# basic git commands
 # git init : used to initialize new repository in the current directory
 # git add  : adds specified files to the index,which is a staging area for changes that will be commited.
 # git status : this is used to show current state of the working directory
